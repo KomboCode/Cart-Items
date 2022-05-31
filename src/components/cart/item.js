@@ -9,7 +9,6 @@ const Item = ({
     data
 }) => {
 
-    console.log(product);
 
     const { id, name, image, price, count } = product;
 
